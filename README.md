@@ -1,5 +1,5 @@
 # tut
-struct
+struct \n
 interface
 https://go.dev/doc/gopath_code
 tcp
